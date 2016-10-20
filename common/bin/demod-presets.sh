@@ -2,7 +2,7 @@
 
 PREFIX="%PREFIX%"
 PRESETS_FILE="$PREFIX/share/outernet/presets"
-PRESETS_URL="https://raw.githubusercontent.com/Outernet-Project/outernet-linux-lband/master/common/presets.sh"
+PRESETS_URL="https://raw.githubusercontent.com/Outernet-Project/outernet-rpi-lband/master/common/presets.sh"
 
 . "$PRESETS_FILE"
 
